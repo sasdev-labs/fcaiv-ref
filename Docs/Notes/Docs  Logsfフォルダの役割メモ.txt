@@ -1,0 +1,9 @@
+Docs/
+  Notes/      （メモ）
+  Specs/      （仕様）
+  Design/     （設計）
+
+Logs/
+  Unity/      （Editor.logなど）
+  Fusion/     （通信・Runner関連ログ）
+  Tests/      （検証ログ）
