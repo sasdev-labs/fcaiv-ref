@@ -7,3 +7,22 @@ Logs/
   Unity/      （Editor.logなど）
   Fusion/     （通信・Runner関連ログ）
   Tests/      （検証ログ）
+  
+-------------------------
+■GitHub構造　追加:2026年2月24日 (火)
+
+FusionCorgi-AI-View
+│
+├ Docs/
+│   ├ Notes/
+│   ├ Specs/
+│   └ Design/
+│
+├ Logs/
+│   ├ Unity/
+│   ├ Fusion/
+│   └ Tests/
+│
+└ Assets/
+    └ CorgiEngineCustom/
+        └ Scripts/
